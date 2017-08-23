@@ -1,5 +1,6 @@
 {
   "name": "Obelisk",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "ObeliskHome",
+  "type": "ionic-angular",
+  "integrations": {}
 }
